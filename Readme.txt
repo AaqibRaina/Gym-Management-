@@ -22,4 +22,4 @@ Username: john@test.com
 Password: Test@123
 or Register a new user
 
-If You Need any further help try to contact me through emailId or my linkedin id
+If You Need the project report or any other help,please contact me through my emailId or Linkedin Id
